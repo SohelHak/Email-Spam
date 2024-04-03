@@ -10,7 +10,7 @@ pip3 install -r dependency/requirements/requirement.txt
 clear
 
 echo "Moving spam.py......."
-mv spam.py /usr/bin/e-spam
+mv dependency/spam.py /usr/bin/e-spam
 
 cd ..
 
