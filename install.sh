@@ -1,5 +1,5 @@
 echo "Giving executable permission to spam.py......."
-chmod +x spam.py
+chmod +x dependency/spam.py
 
 echo "Installing Python3........"
 apt install python3
@@ -13,10 +13,8 @@ echo "Moving spam.py......."
 mv dependency/spam.py /usr/bin/e-spam
 
 cd ..
-
 rm -rf Email-Spam
-clear
-cd $HOME
+cd 
 clear
 
 echo """Type 'e-spam', to run tool
