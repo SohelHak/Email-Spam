@@ -32,5 +32,5 @@ Email-Spam is a tool designed for educational purposes to demonstrate the mechan
 
 ![Screenshot 1](screenshots/Screenshot1.JPG)
 ![Screenshot 2](screenshots/Screenshot2.JPG)
-![Screenshot 3](screenshots/Screenshot14.JPG)
+![Screenshot 3](screenshots/Screenshot3.JPG)
 ![Screenshot 4](screenshots/Screenshot4.JPG)
