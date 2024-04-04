@@ -30,7 +30,7 @@ Email-Spam is a tool designed for educational purposes to demonstrate the mechan
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-![Screenshot 4](screenshots/screenshot4.png)
+![Screenshot 1](screenshots/screenshot1.JPG)
+![Screenshot 2](screenshots/screenshot2.JPG)
+![Screenshot 3](screenshots/screenshot3.JPG)
+![Screenshot 4](screenshots/screenshot4.JPG)
